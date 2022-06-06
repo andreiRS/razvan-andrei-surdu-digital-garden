@@ -3,7 +3,7 @@
 ---
 
 
-![](https://i.imgur.com/hRK6jJl.png)
+`![](https://i.imgur.com/hRK6jJl.png)`
 
 ## Hi, I'm [[garden/Razvan Andrei Surdu|Andrei]]!👋
 
