@@ -3,11 +3,8 @@
 ---
 
 
-`![](https://i.imgur.com/hRK6jJl.png)`
-
 ## Hi, I'm [[garden/Razvan Andrei Surdu|Andrei]]!👋
-
-- I’m a software engineer on a journey from engineer to entrepreneur. 
+- I’m a software engineer on a journey from engineer to entrepreneur.
 - Welcome to my [[garden/Digital Garden|Digital Garden]], a place to share all my learnings and log my journey.
 - You will find ideas around [[30 resources/34 Critical Thinking/Critical Thinking|Critical Thinking]], [[30 resources/35 Stoicism/Stoicism MOC|Stoicism MOC]], [[30 resources/31 Entrepreneurship/Entrepreneurship MOC|Entrepreneurship]], [[30 resources/38 Product Management/Product Management|Product Management]], [[30 resources/32 Leadership/Leadership|Leadership]] , and many others.
 - These notes will vary in form and content, from a one-line paragraph to a small essay, with references and lots of examples.
@@ -15,12 +12,5 @@
 - Take action, make it happen ✌️
 
 ## Useful Links
+- [Published Digital Gargen](https://razvan-andrei-surdu.eu/)
 - [Personal Miro Board](https://miro.com/app/board/o9J_lZjzMII=/)
-
-## Notes changed in the last 7 days
-```dataview  
-TABLE file.mtime as Modified  
-FROM "/"  
-WHERE date(now) - file.mtime <= dur(7 days)  
-SORT file.mtime desc  
-```
