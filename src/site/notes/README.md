@@ -3,7 +3,7 @@
 ---
 
 
-## Hi, I'm [[garden/Razvan Andrei Surdu|Andrei]]!👋
+## Hi👋 I'm [[garden/Razvan Andrei Surdu|Andrei]]!
 - I’m a software engineer on a journey from engineer to entrepreneur.
 - Welcome to my [[garden/Digital Garden|Digital Garden]], a place to share all my learnings and log my journey.
 - You will find ideas around [[30 resources/Critical Thinking/Critical Thinking|Critical Thinking]], [[30 resources/Stoicism/Stoicism MOC|Stoicism MOC]], [[30 resources/Entrepreneurship/Entrepreneurship MOC|Entrepreneurship]], [[30 resources/Product Management/Product Management|Product Management]], [[30 resources/Leadership/Leadership|Leadership]] , and many others.
