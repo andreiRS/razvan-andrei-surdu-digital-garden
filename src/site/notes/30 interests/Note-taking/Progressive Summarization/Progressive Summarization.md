@@ -3,7 +3,7 @@
 ---
 
 
-#project [[30 interests/Note-taking/Note-taking|Note-taking]] #L4
+[[30 interests/Note-taking/Note-taking|Note-taking]] #L4
 
 ![](https://i.imgur.com/zJiHGLJ.png)
 
