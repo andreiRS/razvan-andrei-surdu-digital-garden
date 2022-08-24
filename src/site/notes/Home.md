@@ -12,8 +12,8 @@
 - If any note resonates with you, feel free to send me [a direct message on Twitter](https://twitter.com/messages/compose?recipient_id=25110315) , and let’s talk!
 - Take action, make it happen ✌️
 ## Useful Links
-- [[30 interests/30 interests|30 interests]]
-- [[10 projects/10 projects|10 projects]]
-- [[30 interests/+ Index for Books|+ Index for Books]]
+- [[10 projects/10 projects|Projects]]
+- [[30 interests/30 interests|Interests]]
+- [[30 interests/+ Index for Books|Books]]
 - [Published Digital Gargen](https://razvan-andrei-surdu.eu/)
 - [Personal Miro Board](https://miro.com/app/board/o9J_lZjzMII=/)
