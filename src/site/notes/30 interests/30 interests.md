@@ -13,4 +13,5 @@
 - [[30 interests/Stoicism/Stoicism|Stoicism]]
 - [[30 interests/Tech/Tech|Tech]]
 - [[30 interests/Writing/Writing|Writing]]
+- [[30 interests/Analytics/Analytics|Analytics]]
 - [[30 interests/Examples of Interests|Other]]
