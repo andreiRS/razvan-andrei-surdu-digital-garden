@@ -25,3 +25,6 @@
 - [[The Moscow Method|The Moscow Method]]
 - [[The Kanban Method|The Kanban Method]]
 - [[Don't Break The Chain|Don't Break The Chain]]
+
+## Links
+- [[30 interests/Productivity/Parkinson’s Law|Parkinson’s Law]]
