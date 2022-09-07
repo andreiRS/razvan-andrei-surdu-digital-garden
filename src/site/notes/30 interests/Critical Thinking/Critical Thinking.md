@@ -13,18 +13,21 @@ How can we improve our cognitive performance? What can affect our ability to tak
 - [[30 interests/Critical Thinking/The Swimmer Body Bias|The Swimmer Body Bias]]
 - [[pages/The Dunning Kruger effect - you dont know what you dont know|The Dunning Kruger effect - you dont know what you dont know]]
 - [[30 interests/Critical Thinking/Desirability Bias|Desirability Bias]]
+
 ## Mental Models
 - [[30 interests/Critical Thinking/Inversion Principle|Inversion Principle]]
 - Second-Order Thinking
 - [[Six Thinking Hats|Six Thinking Hats]]
 - [[pages/Negative Brainstorming|Negative Brainstorming]]
 - [[pages/1-2-4-All|1-2-4-All]]
+
 ## Decision Making
-- [[30 interests/Critical Thinking/The Irreversible and Consequential Decision Matrix|The Irreversible and Consequential Decision Matrix]]
 - Game Theory - the study of interdependent decision making
+- [[30 interests/Critical Thinking/The Irreversible and Consequential Decision Matrix|The Irreversible and Consequential Decision Matrix]]
 - Identify the root problem
 - Improve the quality of the information you consume
 - Avoid taking decisions during high stress situations
+
 ## Critical Questions
 - How have you evaluated your evidence?
 - Why do you think it's relevant?
@@ -33,6 +36,7 @@ How can we improve our cognitive performance? What can affect our ability to tak
 ## Put in place the definition of being wrong
 When you form an opinion, ask yourself what would have to happen to prove it false?
 Keep track of your views and see when you were right, when you were wrong and how you thinking has evolved.
+
 ## Resources
 - [[30 interests/Critical Thinking/L. Thinking, Fast and Slow|L. Thinking, Fast and Slow]]
 - [[30 interests/Critical Thinking/L. The Art of Thinking Clearly|L. The Art of Thinking Clearly]]
