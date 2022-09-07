@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/30-interests/tech/search-for-an-exact-keywords-on-a-specific-website-using-google/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+[[30 interests/Tech/Tech|Tech]]
 
 I needed to look on oberlo blog for an article on competitors and for that the trick was to search for:
 
