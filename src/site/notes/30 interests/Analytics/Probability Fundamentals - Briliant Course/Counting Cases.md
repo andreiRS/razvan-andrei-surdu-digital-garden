@@ -19,11 +19,11 @@
 	- Positive Cases = 450 + 950 = 1400
 	- Healthy Positive = 950
 	- The probability of being healthy out of all positives = 950 / 1400 * 100 = 68%
-
-```ad-success
-The probability of Nick to be healthy was calculated by dividing the amount of healthy positive *(the desired outcome)* to the sum of both healthy and sick positive cases *(all outcomes)*.
-
-See: [[Estimating Probabilities#^Takeaway]]
-```
-
-[[30 interests/Analytics/Probability Fundamentals - Briliant Course/Probability Fundamentals - Briliant Course|Probability Fundamentals - Briliant Course]]
+	  
+	  ```ad-success
+	  The probability of Nick to be healthy was calculated by dividing the amount of healthy positive *(the desired outcome)* to the sum of both healthy and sick positive cases *(all outcomes)*.
+	  
+	  See: [[Estimating Probabilities#^Takeaway]]
+	  ```
+	  
+	  [[30 interests/Analytics/Probability Fundamentals - Briliant Course/Probability Fundamentals - Briliant Course|Probability Fundamentals - Briliant Course]]
