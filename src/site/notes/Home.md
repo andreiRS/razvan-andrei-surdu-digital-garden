@@ -5,7 +5,7 @@
 
 ![](https://i.imgur.com/v1LQMYT.png)
 
-## Hi👋 I'm Andrei!
+## Hi👋 I'm [[50 entities/51 individuals/Razvan Andrei Surdu|Andrei]]!
 - I’m a software engineer on a journey from engineer to entrepreneur.
 - Welcome to my [[garden/Digital Garden|Digital Garden]], a place to share all my learnings and log my journey.
 - You will find ideas around [[30 interests/Critical Thinking/Critical Thinking|Critical Thinking]], [[30 interests/Stoicism/Stoicism MOC|Stoicism MOC]], [[30 interests/Entrepreneurship/Entrepreneurship MOC|Entrepreneurship]], [[30 interests/Product Management/Product Management|Product Management]], [[30 interests/Leadership/Leadership|Leadership]], [[30 interests/Note-taking/Note-taking|Note-taking]], and many others.
