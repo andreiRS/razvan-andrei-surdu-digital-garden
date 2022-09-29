@@ -19,7 +19,7 @@
 
 ```ad-success
 title: Takeaway
-To calculate a proability, subdivide the grid of all outcomes until you've singled out the desired one, then find its relative area.
+To calculate a proability, **subdivide the grid of all outcomes until you've singled out the desired one**, then find its relative area.
 ```
 ^Takeaway
 
