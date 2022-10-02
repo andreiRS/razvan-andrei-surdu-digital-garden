@@ -13,7 +13,7 @@
 - If any note resonates with you, feel free to send me [a direct message on Twitter](https://twitter.com/messages/compose?recipient_id=25110315) , and let’s talk!
 - What are you waiting for? Take action, make it happen ✌️
 
-## Useful Links
+## Quick Links
 - [[10 projects/10 projects|Projects]]
 - [[30 interests/30 interests|Interests]]
 - [[30 interests/+ Index for Books|Books]]
