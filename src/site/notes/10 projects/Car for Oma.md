@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/10-projects/car-for-oma/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+#project | [[10 projects/10 projects|10 projects]]
+
 
 ## Requirements
 - VW or Audi
