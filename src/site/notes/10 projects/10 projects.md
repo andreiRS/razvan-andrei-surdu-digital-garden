@@ -5,7 +5,9 @@
 #x/index | [[Home|Home]]
 
 Quick Links
-- [[10 projects/Car for Oma|Car for Oma]]
+- ...
+- ...
+- ...
 
 Active Projects
 ``` dataview
