@@ -25,4 +25,4 @@ sudo rm -f ~/Library/Preferences/ByHost/com.apple.loginwindow*
 
 ---
 * source: https://apple.stackexchange.com/questions/230719/how-to-disable-app-relaunch-and-window-restore-in-el-capitan-on-reboot
-* tags: [[Mac Tips|Mac Tips]] [[30 interests/Tech/Tech|Tech]], #ready
+* tags: [[Mac Tips|Mac Tips]] [[30 interests/Tech/Tech|Tech]]
