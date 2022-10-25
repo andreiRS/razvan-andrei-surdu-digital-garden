@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-interests/analytics/probability-fundamentals-briliant-course/probability-fundamentals-briliant-course/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/30-interests/analytics/probability-fundamentals-briliant-course/probability-fundamentals-briliant-course/"}
 ---
 
 [[60 tools/Brilliant|Brilliant]] | [[30 interests/Analytics/Analytics|Analytics]] 
