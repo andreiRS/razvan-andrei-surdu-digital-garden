@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-interests/note-taking/progressive-summarization/progressive-summarization/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/30-interests/note-taking/progressive-summarization/progressive-summarization/"}
 ---
 
 
