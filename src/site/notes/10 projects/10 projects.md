@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-projects/10-projects/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/10-projects/10-projects/"}
 ---
 
 #x/index | [[Home|Home]]
