@@ -1,19 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/30-interests/critical-thinking/critical-thinking/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/30-interests/critical-thinking/critical-thinking/"}
 ---
 
 #critical-thinking
 
-How one becomes more wise?
-How can we improve our cognitive performance? 
-What can affect our ability to take the right decisions?
-
 ## Mental Models
 - Mental models are frameworks for thinking that simplify complex situations so you can reason through them easily.
-- They help assess how things work and help us make better decisions
-- See more [[30 interests/Critical Thinking/Mental Models|Mental Models]]
+- They help assess how things work and help us make better decisions.
+- Examples: [[30 interests/Critical Thinking/Six Thinking Hats|Six Thinking Hats]], [[30 interests/Critical Thinking/The Irreversible and Consequential Decision Matrix|The Irreversible and Consequential Decision Matrix]], [[30 interests/Leadership/Delegation Levels|Delegation Levels]]
+- See more: [[30 interests/Critical Thinking/Mental Models|Mental Models]]
 
-## Cognitive Biases
+## Cognitive Biasses
 - [[30 interests/Critical Thinking/Hawthorne Effect|Hawthorne Effect]]
 - [[30 interests/Critical Thinking/Sampling Bias|Sampling Bias]]
 - [[30 interests/Critical Thinking/Survivorship Bias|Survivorship Bias]]
@@ -38,6 +35,12 @@ What can affect our ability to take the right decisions?
 ## Put in place the definition of being wrong
 - When you form an opinion, ask yourself what would have to happen to prove it false?
 - Keep track of your views and see when you were right, when you were wrong and how you thinking has evolved.
+
+## Related Questions
+- How one becomes more wise?
+- How can we improve our cognitive performance? 
+- What can affect our ability to take the right decisions?
+
 
 ## Resources
 - [[30 interests/Critical Thinking/L. Thinking, Fast and Slow|L. Thinking, Fast and Slow]]
