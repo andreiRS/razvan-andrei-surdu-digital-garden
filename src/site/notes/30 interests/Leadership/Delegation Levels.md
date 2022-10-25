@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-interests/leadership/delegation-levels/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/30-interests/leadership/delegation-levels/"}
 ---
 
 # Delegation Levels
