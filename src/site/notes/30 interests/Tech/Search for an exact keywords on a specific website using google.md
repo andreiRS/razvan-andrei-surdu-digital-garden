@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-interests/tech/search-for-an-exact-keywords-on-a-specific-website-using-google/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/30-interests/tech/search-for-an-exact-keywords-on-a-specific-website-using-google/"}
 ---
 
 [[30 interests/Tech/Tech|Tech]]
