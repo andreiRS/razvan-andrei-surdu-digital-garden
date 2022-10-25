@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/home/","tags":"gardenEntry","dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 
@@ -19,3 +19,4 @@
 - [Published Digital Garden](https://razvan-andrei-surdu.eu/)
 	- [[80 Resources/Publish Pages Overview|Publish Pages Overview]]
 - [Personal Miro Board](https://miro.com/app/board/o9J_lZjzMII=/)
+- [razvan-andrei-surdu.com](https://razvan-andrei-surdu.com)
