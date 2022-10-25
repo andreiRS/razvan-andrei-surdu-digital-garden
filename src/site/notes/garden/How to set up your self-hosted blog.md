@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/how-to-set-up-your-self-hosted-blog/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/garden/how-to-set-up-your-self-hosted-blog/"}
 ---
 
 [[30 interests/Tech/Tech|Tech]]
