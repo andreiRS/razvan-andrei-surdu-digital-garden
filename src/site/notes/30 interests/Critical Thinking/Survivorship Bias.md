@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-interests/critical-thinking/survivorship-bias/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/30-interests/critical-thinking/survivorship-bias/"}
 ---
 
 People tend to do the mistake of looking only on success stories without paying attention to the ones who did not reach that state. It is wise to learn from failed projects, products and companies, not only to not overestimate, but  to increase our chances to succeed.
