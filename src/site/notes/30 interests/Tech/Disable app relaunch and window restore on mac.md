@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-interests/tech/disable-app-relaunch-and-window-restore-on-mac/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/30-interests/tech/disable-app-relaunch-and-window-restore-on-mac/"}
 ---
 
 [[30 interests/Tech/Tech|Tech]]
