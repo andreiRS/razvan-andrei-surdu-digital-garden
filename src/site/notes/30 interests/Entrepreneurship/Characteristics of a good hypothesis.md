@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-interests/entrepreneurship/characteristics-of-a-good-hypothesis/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/30-interests/entrepreneurship/characteristics-of-a-good-hypothesis/"}
 ---
 
 [[30 interests/Entrepreneurship/Entrepreneurship|Entrepreneurship]] | [[30 interests/Analytics/Analytics|Analytics]]
