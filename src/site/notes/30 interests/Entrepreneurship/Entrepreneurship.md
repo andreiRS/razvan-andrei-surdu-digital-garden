@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-interests/entrepreneurship/entrepreneurship/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/30-interests/entrepreneurship/entrepreneurship/"}
 ---
 
 [[30 interests/30 interests|30 interests]]
