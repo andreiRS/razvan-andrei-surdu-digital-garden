@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-interests/productivity/productivity/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/30-interests/productivity/productivity/"}
 ---
 
 
