@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-interests/critical-thinking/sampling-bias/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/30-interests/critical-thinking/sampling-bias/"}
 ---
 
 
