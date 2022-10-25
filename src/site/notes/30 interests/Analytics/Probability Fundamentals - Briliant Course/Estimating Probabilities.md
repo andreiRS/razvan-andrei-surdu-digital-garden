@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-interests/analytics/probability-fundamentals-briliant-course/estimating-probabilities/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/30-interests/analytics/probability-fundamentals-briliant-course/estimating-probabilities/"}
 ---
 
 [[30 interests/Analytics/Probability Fundamentals - Briliant Course/Probability Fundamentals - Briliant Course|Probability Fundamentals - Briliant Course]]
