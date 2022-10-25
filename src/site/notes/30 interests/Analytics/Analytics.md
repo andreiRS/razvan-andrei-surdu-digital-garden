@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-interests/analytics/analytics/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/30-interests/analytics/analytics/"}
 ---
 
 [[30 interests/30 interests|30 interests]]
