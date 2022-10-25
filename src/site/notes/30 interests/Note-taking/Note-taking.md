@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-interests/note-taking/note-taking/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/30-interests/note-taking/note-taking/"}
 ---
 
 [[30 interests/30 interests|30 interests]]
