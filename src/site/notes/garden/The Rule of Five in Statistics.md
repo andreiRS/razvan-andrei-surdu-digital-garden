@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/the-rule-of-five-in-statistics/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/garden/the-rule-of-five-in-statistics/"}
 ---
 
 [[30 interests/Analytics/Analytics|Analytics]]
