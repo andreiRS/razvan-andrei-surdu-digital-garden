@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-interests/tech/pull-upstream/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/30-interests/tech/pull-upstream/"}
 ---
 
 [[30 interests/Tech/Tech|Tech]]
