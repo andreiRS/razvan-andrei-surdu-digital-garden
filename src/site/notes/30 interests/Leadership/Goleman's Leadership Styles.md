@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-interests/leadership/goleman-s-leadership-styles/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/30-interests/leadership/goleman-s-leadership-styles/"}
 ---
 
   - Visionary - "Come with me"
