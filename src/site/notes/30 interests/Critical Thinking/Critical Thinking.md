@@ -4,6 +4,8 @@
 
 #critical-thinking
 
+# Critical Thinking
+
 ## Mental Models
 - Mental models are frameworks for thinking that simplify complex situations so you can reason through them easily.
 - They help assess how things work and help us make better decisions.
@@ -31,10 +33,13 @@
 - How have you evaluated your evidence?
 - Why do you think it's relevant?
 - What ideas have you considered but rejected?
-
-## Put in place the definition of being wrong
+- What could go wrong with this idea?
+- What is missing?
+- What are some potential weaknesses?
 - When you form an opinion, ask yourself what would have to happen to prove it false?
-- Keep track of your views and see when you were right, when you were wrong and how you thinking has evolved.
+	- Keep track of your views and see when you were right, when you were wrong and how you thinking has evolved.
+
+
 
 ## Related Questions
 - How one becomes more wise?
