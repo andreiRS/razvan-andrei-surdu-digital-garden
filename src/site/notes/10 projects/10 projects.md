@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/10-projects/10-projects/"}
 ---
 
-#x/index | [[Home|Home]]
+[[Home|Home]] | #x/index
 
 Quick Links
 - ...
