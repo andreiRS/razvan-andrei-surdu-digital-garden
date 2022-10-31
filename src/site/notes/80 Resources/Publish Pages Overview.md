@@ -7,7 +7,6 @@
 - [[10 projects/10 projects|10 projects]]
 - [[30 interests/30 interests|30 interests]]
 - [[30 interests/Analytics/Analytics|Analytics]]
-- [[90 archives/Car for Oma|Car for Oma]]
 - [[30 interests/Entrepreneurship/Characteristics of a good hypothesis|Characteristics of a good hypothesis]]
 - [[30 interests/Analytics/Probability Fundamentals - Briliant Course/Common Paradoxes|Common Paradoxes]]
 - [[30 interests/Analytics/Probability Fundamentals - Briliant Course/Counting Cases|Counting Cases]]
