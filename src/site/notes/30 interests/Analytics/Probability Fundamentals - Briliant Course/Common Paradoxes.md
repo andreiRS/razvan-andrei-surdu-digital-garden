@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/30-interests/analytics/probability-fundamentals-briliant-course/common-paradoxes/"}
 ---
 
-[[30 interests/Analytics/Probability Fundamentals - Briliant Course/Probability Fundamentals - Briliant Course|Probability Fundamentals - Briliant Course]]
+[[30 interests/Analytics/Probability Fundamentals - Briliant Course/Probability Fundamentals - Briliant Course\|Probability Fundamentals - Briliant Course]]
 
 ![](https://i.imgur.com/3FKv9nW.png)
 
@@ -21,4 +21,4 @@
 	- 0.8 x 0.6 + 0.2 x 1 = 0.68
 - Green Grocer is the company has a higher chance of delivering the shipment on time.
 
-[[30 interests/Analytics/Probability Fundamentals - Briliant Course/Probability Fundamentals - Briliant Course|Probability Fundamentals - Briliant Course]]
+[[30 interests/Analytics/Probability Fundamentals - Briliant Course/Probability Fundamentals - Briliant Course\|Probability Fundamentals - Briliant Course]]
