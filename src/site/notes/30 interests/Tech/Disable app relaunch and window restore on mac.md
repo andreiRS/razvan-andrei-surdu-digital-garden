@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/30-interests/tech/disable-app-relaunch-and-window-restore-on-mac/"}
 ---
 
-[[30 interests/Tech/Tech|Tech]]
+[[30 interests/Tech/Tech\|Tech]]
 
 If you are looking for a way to permanently disable this feature so you don't have to remember the extra "uncheck the box" step every time you turn your machine off, you can simply deny OS X access to the file it uses to store your session state.
 
@@ -25,4 +25,4 @@ sudo rm -f ~/Library/Preferences/ByHost/com.apple.loginwindow*
 
 ---
 * source: https://apple.stackexchange.com/questions/230719/how-to-disable-app-relaunch-and-window-restore-in-el-capitan-on-reboot
-* tags: [[Mac Tips|Mac Tips]] [[30 interests/Tech/Tech|Tech]]
+* tags: [[Mac Tips\|Mac Tips]] [[30 interests/Tech/Tech\|Tech]]
