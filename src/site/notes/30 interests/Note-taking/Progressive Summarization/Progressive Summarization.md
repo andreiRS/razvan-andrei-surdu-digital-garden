@@ -3,7 +3,7 @@
 ---
 
 
-[[30 interests/Note-taking/Note-taking|Note-taking]] #L4
+[[30 interests/Note-taking/Note-taking\|Note-taking]] #L4
 
 ![](https://i.imgur.com/zJiHGLJ.png)
 
@@ -23,7 +23,7 @@ You can achieve this by re-reading the text and the most important pieces severa
 
 Moving from one layer to another is done at different interval of times and not all the steps at once. For example, level 2 can be done in the same day or the next one from the time of reading the content. Level 3 pass can be done after one week and level 4, several days later.
 
-[[50 entities/51 individuals/Tiago Forte|Tiago Forte]] is the the creator of this technique, and you can find more resources on his [blog](https://fortelabs.co/) and [youtube](https://www.youtube.com/c/TiagoForteLabs) channel.
+[[50 entities/51 individuals/Tiago Forte\|Tiago Forte]] is the the creator of this technique, and you can find more resources on his [blog](https://fortelabs.co/) and [youtube](https://www.youtube.com/c/TiagoForteLabs) channel.
 
 ## What are the key benefits
 
