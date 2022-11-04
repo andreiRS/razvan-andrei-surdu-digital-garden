@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/30-interests/entrepreneurship/characteristics-of-a-good-hypothesis/"}
 ---
 
-[[30 interests/Entrepreneurship/Entrepreneurship|Entrepreneurship]] | [[30 interests/Analytics/Analytics|Analytics]]
+[[30 interests/Entrepreneurship/Entrepreneurship\|Entrepreneurship]] | [[30 interests/Analytics/Analytics\|Analytics]]
 
 ## Characteristics of a good hypothesis
 - **Testable**
@@ -18,7 +18,7 @@
 	- ❌ We believe we can buy and ship science project boxes at a profit
 	- ✅ We believe we can purchase science project materials at wholesale for less than $3 a box.
 	- ✅ We believe we can ship science projects materials domestically for less than $5 a box.
-	  Source: [[Testing Business Ideas|Testing Business Ideas]]
+	  Source: [[Testing Business Ideas\|Testing Business Ideas]]
 ## How can you phrase the hypothesis and the new learning?
-- [[30 interests/Entrepreneurship/Test and Learning Card Format|Test and Learning Card Format]]
+- [[30 interests/Entrepreneurship/Test and Learning Card Format\|Test and Learning Card Format]]
 - If-Than Statement
