@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/30-interests/entrepreneurship/test-and-learning-card-format/"}
 ---
 
-[[30 interests/Entrepreneurship/Entrepreneurship|Entrepreneurship]] | [[30 interests/Analytics/Analytics|Analytics]]
+[[30 interests/Entrepreneurship/Entrepreneurship\|Entrepreneurship]] | [[30 interests/Analytics/Analytics\|Analytics]]
 
 ```ad-note
 title: Test Card Format
@@ -36,8 +36,8 @@ Search Trend Analyses Test Card
 - From that we learned that **kindergarten grade level yielded the most search volume.**
 - Therefore, we will **dive deeper into the parents of kindergarteners to better understand their needs.**
   
-  Source: [[Testing Business Ideas|Testing Business Ideas]]
+  Source: [[Testing Business Ideas\|Testing Business Ideas]]
   
   
   ---
-  [[30 interests/Entrepreneurship/Characteristics of a good hypothesis|Characteristics of a good hypothesis]]
+  [[30 interests/Entrepreneurship/Characteristics of a good hypothesis\|Characteristics of a good hypothesis]]
