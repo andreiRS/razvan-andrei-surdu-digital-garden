@@ -2,20 +2,20 @@
 {"dg-publish":true,"permalink":"/30-interests/analytics/probability-fundamentals-briliant-course/probability-fundamentals-briliant-course/"}
 ---
 
-[[60 tools/Brilliant|Brilliant]] | [[30 interests/Analytics/Analytics|Analytics]] 
+[[60 tools/Brilliant\|Brilliant]] | [[30 interests/Analytics/Analytics\|Analytics]] 
 
 ![](https://i.imgur.com/ayQcEWp.png)
 
 ## Introduction
-- [[30 interests/Analytics/Probability Fundamentals - Briliant Course/Estimating Probabilities|Estimating Probabilities]]
-- [[30 interests/Analytics/Probability Fundamentals - Briliant Course/Counting Cases|Counting Cases]]
-- [[30 interests/Analytics/Probability Fundamentals - Briliant Course/Common Paradoxes|Common Paradoxes]]
-- [[30 interests/Analytics/Probability Fundamentals - Briliant Course/Intro to Simulation|Intro to Simulation]]
+- [[30 interests/Analytics/Probability Fundamentals - Briliant Course/Estimating Probabilities\|Estimating Probabilities]]
+- [[30 interests/Analytics/Probability Fundamentals - Briliant Course/Counting Cases\|Counting Cases]]
+- [[30 interests/Analytics/Probability Fundamentals - Briliant Course/Common Paradoxes\|Common Paradoxes]]
+- [[30 interests/Analytics/Probability Fundamentals - Briliant Course/Intro to Simulation\|Intro to Simulation]]
 ## Principles of Probability
 - Using Outcomes
 - Outcome Distibution
 - Complements
-- [[30 interests/Analytics/Probability Fundamentals - Briliant Course/Probability as Counting|Probability as Counting]]
+- [[30 interests/Analytics/Probability Fundamentals - Briliant Course/Probability as Counting\|Probability as Counting]]
 - The Rule of Sum
 	- P(A or B) = P(A) + P(B) - P(A AND B)
 - The Product Rule
