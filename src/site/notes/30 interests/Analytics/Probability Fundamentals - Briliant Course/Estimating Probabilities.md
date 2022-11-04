@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/30-interests/analytics/probability-fundamentals-briliant-course/estimating-probabilities/"}
 ---
 
-[[30 interests/Analytics/Probability Fundamentals - Briliant Course/Probability Fundamentals - Briliant Course|Probability Fundamentals - Briliant Course]]
+[[30 interests/Analytics/Probability Fundamentals - Briliant Course/Probability Fundamentals - Briliant Course\|Probability Fundamentals - Briliant Course]]
 
 ![](https://i.imgur.com/exI1W7E.png)
 
@@ -25,4 +25,4 @@ To calculate a proability, **subdivide the grid of all outcomes until you've sin
 
 
 ---
-[[30 interests/Analytics/Probability Fundamentals - Briliant Course/Probability Fundamentals - Briliant Course|Probability Fundamentals - Briliant Course]]
+[[30 interests/Analytics/Probability Fundamentals - Briliant Course/Probability Fundamentals - Briliant Course\|Probability Fundamentals - Briliant Course]]
