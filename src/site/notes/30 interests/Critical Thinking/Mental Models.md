@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/30-interests/critical-thinking/mental-models/"}
 ---
 
-[[30 interests/Critical Thinking/Critical Thinking|Critical Thinking]]
+[[30 interests/Critical Thinking/Critical Thinking\|Critical Thinking]]
 
 # Mental Models
 
@@ -14,41 +14,41 @@
 - As your muscles and body are getting stronger when you are exercising at the gym, the similar thing happens with your mind when you are learning and using new mental models.
 
 ## Leadership
-- [[30 interests/Leadership/Delegation Levels|Delegation Levels]]
+- [[30 interests/Leadership/Delegation Levels\|Delegation Levels]]
 
 ## Decision Making
-- [[30 interests/Critical Thinking/The Irreversible and Consequential Decision Matrix|The Irreversible and Consequential Decision Matrix]]
+- [[30 interests/Critical Thinking/The Irreversible and Consequential Decision Matrix\|The Irreversible and Consequential Decision Matrix]]
 
 ## Finance
-- [[Compound Interest|Compound Interest]]
+- [[Compound Interest\|Compound Interest]]
 - Economy of scale
 - Loss Aversion
 
 ## Math
-- [[Probabilities|Probabilities]]
+- [[Probabilities\|Probabilities]]
 
 ## Thinking
-- [[30 interests/Critical Thinking/Cognitive Biases|Cognitive Biases]]
-	- [[30 interests/Critical Thinking/Survivorship Bias|Survivorship Bias]]
-	- [[30 interests/Critical Thinking/Inversion Principle|Inversion Principle]]
-	- [[30 interests/Critical Thinking/One Level Higher|One Level Higher]]
-	- [[30 interests/Critical Thinking/Groupthink|Groupthink]]
+- [[30 interests/Critical Thinking/Cognitive Biases\|Cognitive Biases]]
+	- [[30 interests/Critical Thinking/Survivorship Bias\|Survivorship Bias]]
+	- [[30 interests/Critical Thinking/Inversion Principle\|Inversion Principle]]
+	- [[30 interests/Critical Thinking/One Level Higher\|One Level Higher]]
+	- [[30 interests/Critical Thinking/Groupthink\|Groupthink]]
 
 ## Other
-- [[pages/Negative Brainstorming|Negative Brainstorming]]
-- [[30 interests/Critical Thinking/Regret Minimization|Regret Minimization]]
+- [[pages/Negative Brainstorming\|Negative Brainstorming]]
+- [[30 interests/Critical Thinking/Regret Minimization\|Regret Minimization]]
 - Second-Order Thinking
-- [[30 interests/Critical Thinking/Six Thinking Hats|Six Thinking Hats]]
-- [[pages/1-2-4-All|1-2-4-All]]
-- [[30 interests/Critical Thinking/First Principles|First Principles]]
-- [[30 interests/Critical Thinking/Theory of Constraints|Theory of Constraints]]
+- [[30 interests/Critical Thinking/Six Thinking Hats\|Six Thinking Hats]]
+- [[pages/1-2-4-All\|1-2-4-All]]
+- [[30 interests/Critical Thinking/First Principles\|First Principles]]
+- [[30 interests/Critical Thinking/Theory of Constraints\|Theory of Constraints]]
 - ICE Prioritization
 
 ## References
-- [[library/highlights/articles/Mental model examples How to actually use them|Mental model examples How to actually use them]]
-	- [[library/highlights/articles/Mental model examples How to actually use them/Mental Models are frameworks for thinking|Mental Models are frameworks for thinking]]
-	- [[library/highlights/articles/Mental model examples How to actually use them/Mental models help you assess how things work and help you make better decisions|Mental models help you assess how things work and help you make better decisions]]
-	- [[library/highlights/articles/Mental model examples How to actually use them/Mental models help to become more wise|Mental models help to become more wise]]
+- [[library/highlights/articles/Mental model examples How to actually use them\|Mental model examples How to actually use them]]
+	- [[library/highlights/articles/Mental model examples How to actually use them/Mental Models are frameworks for thinking\|Mental Models are frameworks for thinking]]
+	- [[library/highlights/articles/Mental model examples How to actually use them/Mental models help you assess how things work and help you make better decisions\|Mental models help you assess how things work and help you make better decisions]]
+	- [[library/highlights/articles/Mental model examples How to actually use them/Mental models help to become more wise\|Mental models help to become more wise]]
 
 ---
-[[30 interests/Critical Thinking/Critical Thinking|Critical Thinking]]
+[[30 interests/Critical Thinking/Critical Thinking\|Critical Thinking]]
