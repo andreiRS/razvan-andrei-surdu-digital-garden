@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/30-interests/tech/search-for-an-exact-keywords-on-a-specific-website-using-google/"}
 ---
 
-[[30 interests/Tech/Tech|Tech]]
+[[30 interests/Tech/Tech\|Tech]]
 
 I needed to look on oberlo blog for an article on competitors and for that the trick was to search for:
 
@@ -23,4 +23,4 @@ site:media.defense.gov inurl:2017 report
 ```
 
 ---
-links: [[30 interests/Tech/Tech|Tech]]
+links: [[30 interests/Tech/Tech\|Tech]]
