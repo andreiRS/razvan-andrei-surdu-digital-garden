@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/30-interests/analytics/probability-fundamentals-briliant-course/counting-cases/"}
 ---
 
-[[30 interests/Analytics/Probability Fundamentals - Briliant Course/Probability Fundamentals - Briliant Course|Probability Fundamentals - Briliant Course]]
+[[30 interests/Analytics/Probability Fundamentals - Briliant Course/Probability Fundamentals - Briliant Course\|Probability Fundamentals - Briliant Course]]
 
 ![](https://i.imgur.com/T2gbuiI.png)
 
@@ -26,4 +26,4 @@
 	  See: [[Estimating Probabilities#^Takeaway]]
 	  ```
 	  
-	  [[30 interests/Analytics/Probability Fundamentals - Briliant Course/Probability Fundamentals - Briliant Course|Probability Fundamentals - Briliant Course]]
+	  [[30 interests/Analytics/Probability Fundamentals - Briliant Course/Probability Fundamentals - Briliant Course\|Probability Fundamentals - Briliant Course]]
