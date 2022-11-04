@@ -3,7 +3,7 @@
 ---
 
 # Delegation Levels
-[[Jurgen Appelo|Jurgen Appelo]] [[Management 3.0|Management 3.0]]
+[[Jurgen Appelo\|Jurgen Appelo]] [[Management 3.0\|Management 3.0]]
 
 ![](https://i.imgur.com/27JgPgB.png)
 
@@ -30,5 +30,5 @@ References
 - https://medium.com/@jurgenappelo/the-7-levels-of-delegation-672ec2a48103
 
 ---
-links: [[30 interests/Leadership/Leadership|Leadership]]
+links: [[30 interests/Leadership/Leadership\|Leadership]]
 tags: #seed-🌱 
