@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/30-interests/tech/pull-upstream/"}
 ---
 
-[[30 interests/Tech/Tech|Tech]]
+[[30 interests/Tech/Tech\|Tech]]
 
 Git commands that enables you to pull changes from the repository that you forked from, aka "upstream".
 
