@@ -10,4 +10,4 @@
   - Commanding - "Do what I tell you"
 
 ---
-tags:: [[30 interests/Leadership/Leadership|Leadership]]
+tags:: [[30 interests/Leadership/Leadership\|Leadership]]
