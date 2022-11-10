@@ -5,8 +5,6 @@
 
 # Index
 - [[10 projects/10 projects\|10 projects]]
-- [[logseq/bak/10 projects/10 projects/2022-11-10T17_41_23.200Z.Desktop\|2022-11-10T17_41_23.200Z.Desktop]]
-- [[logseq/bak/10 projects/10 projects/2022-11-10T17_41_26.899Z.Desktop\|2022-11-10T17_41_26.899Z.Desktop]]
 - [[30 interests/30 interests\|30 interests]]
 - [[30 interests/History/American History\|American History]]
 - [[30 interests/Analytics/Analytics\|Analytics]]
