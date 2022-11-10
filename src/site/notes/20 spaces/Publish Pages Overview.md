@@ -33,6 +33,7 @@
 - [[30 interests/Critical Thinking/Survivorship Bias\|Survivorship Bias]]
 - [[30 interests/Tech/Tech\|Tech]]
 - [[30 interests/Entrepreneurship/Test and Learning Card Format\|Test and Learning Card Format]]
+- [[library/highlights/books/The Goal\|The Goal]]
 - [[30 interests/Analytics/The Rule of Five in Statistics\|The Rule of Five in Statistics]]
 
 
