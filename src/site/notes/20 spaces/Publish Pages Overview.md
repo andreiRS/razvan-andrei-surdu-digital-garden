@@ -5,7 +5,10 @@
 
 # Index
 - [[10 projects/10 projects\|10 projects]]
+- [[logseq/bak/10 projects/10 projects/2022-11-10T17_41_23.200Z.Desktop\|2022-11-10T17_41_23.200Z.Desktop]]
+- [[logseq/bak/10 projects/10 projects/2022-11-10T17_41_26.899Z.Desktop\|2022-11-10T17_41_26.899Z.Desktop]]
 - [[30 interests/30 interests\|30 interests]]
+- [[30 interests/History/American History\|American History]]
 - [[30 interests/Analytics/Analytics\|Analytics]]
 - [[30 interests/Entrepreneurship/Characteristics of a good hypothesis\|Characteristics of a good hypothesis]]
 - [[30 interests/Analytics/Probability Fundamentals - Briliant Course/Common Paradoxes\|Common Paradoxes]]
@@ -18,6 +21,7 @@
 - [[30 interests/Entrepreneurship/Entrepreneurship\|Entrepreneurship]]
 - [[30 interests/Analytics/Probability Fundamentals - Briliant Course/Estimating Probabilities\|Estimating Probabilities]]
 - [[30 interests/Leadership/Goleman's Leadership Styles\|Goleman's Leadership Styles]]
+- [[30 interests/History/History\|History]]
 - [[Home\|Home]]
 - [[30 interests/Tech/How to set up your self-hosted blog\|How to set up your self-hosted blog]]
 - [[30 interests/Leadership/Leadership\|Leadership]]
