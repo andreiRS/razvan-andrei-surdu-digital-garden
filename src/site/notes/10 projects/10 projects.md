@@ -4,11 +4,6 @@
 
 [[Home\|Home]] | #x/index
 
-Quick Links
-- ...
-- ...
-- ...
-
 Active Projects
 ``` dataview
 TABLE tags FROM "10 projects" and #project
