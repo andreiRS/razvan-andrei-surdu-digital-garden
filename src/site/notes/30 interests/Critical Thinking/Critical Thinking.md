@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/30-interests/critical-thinking/critical-thinking/"}
 ---
 
-#critical-thinking
+[[30 interests/30 interests\|30 interests]]
 
 # Critical Thinking
 
