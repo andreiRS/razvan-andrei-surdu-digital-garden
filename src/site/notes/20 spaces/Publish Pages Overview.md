@@ -19,6 +19,7 @@
 - [[30 interests/Entrepreneurship/Entrepreneurship\|Entrepreneurship]]
 - [[30 interests/Analytics/Probability Fundamentals - Briliant Course/Estimating Probabilities\|Estimating Probabilities]]
 - [[30 interests/Leadership/Goleman's Leadership Styles\|Goleman's Leadership Styles]]
+- [[30 interests/Critical Thinking/Groupthink\|Groupthink]]
 - [[30 interests/History/History\|History]]
 - [[Home\|Home]]
 - [[30 interests/Tech/How to set up your self-hosted blog\|How to set up your self-hosted blog]]
