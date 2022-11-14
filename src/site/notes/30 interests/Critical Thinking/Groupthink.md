@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/30-interests/critical-thinking/groupthink/"}
 ---
 
-[[30 interests/Critical Thinking/Critical Thinking\|Critical Thinking]]
+[[30 interests/Critical Thinking/Cognitive Biases\|Cognitive Biases]]
 
 ![](https://i.imgur.com/pvykslb.png)
 
