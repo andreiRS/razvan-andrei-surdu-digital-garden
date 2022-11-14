@@ -22,6 +22,7 @@ Here you will find tool and frameworks for your mind to help you on your own jou
 - [[30 interests/Critical Thinking/Hawthorne Effect\|Hawthorne Effect]]
 - [[30 interests/Critical Thinking/Sampling Bias\|Sampling Bias]]
 - [[30 interests/Critical Thinking/Survivorship Bias\|Survivorship Bias]]
+- [[30 interests/Critical Thinking/Groupthink\|Groupthink]]
 - [[30 interests/Critical Thinking/The Swimmer Body Bias\|The Swimmer Body Bias]]
 - [[pages/The Dunning Kruger effect - you dont know what you dont know\|The Dunning Kruger effect - you dont know what you dont know]]
 - [[30 interests/Critical Thinking/Desirability Bias\|Desirability Bias]]
