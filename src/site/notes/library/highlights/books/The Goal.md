@@ -230,27 +230,28 @@ The Goal by Eliyahu M. Goldratt, Jeff Cox, and David Whitford
 > “According to the cost-accounting rules that everybody has used in the past, we’re supposed to balance capacity with demand first, then try to maintain the flow,” I say. “But instead we shouldn’t be trying to balance capacity at all; we need excess capacity. The rule we should be following is to balance the flow with demand, not the capacity.
 
  * [Location 4863](https://readwise.io/to_kindle?action=open&asin=B002LHRM2O&location=4863)
-### Location 4866
+### Location 4866 The output of an worker is not determined only by his own potential but also by it's dependencies
 
 > assumption that the level of utilization of any worker is determined by his own potential,” I tell them. “That’s totally false because of dependency. For any resource that is not a bottleneck, the level of activity from which the system is able to profit is not determined by its individual potential but by some other constraint within the system.”
 
  * [Location 4866](https://readwise.io/to_kindle?action=open&asin=B002LHRM2O&location=4866)
-### Location 4870
+
+### Location 4870 Activating and utilizing a resource is not the same
 
 > “No, and that’s a third assumption that’s wrong,” I say. “We’ve assumed that utilization and activation are the same. Activating a resource and utilizing a resource are not synonymous.”
 
  * [Location 4870](https://readwise.io/to_kindle?action=open&asin=B002LHRM2O&location=4870)
-### Location 4873
+### Location 4873 An hour saved at a non-bottleneck is worthless
 
 > say an hour lost at a bottleneck is an hour out of the entire system. Hilton says an hour lost at a bottleneck is just an hour lost of that resource. I say an hour saved at a non-bottleneck is worthless. Hilton says an hour saved at a non-bottleneck is an hour saved at that resource.
 
  * [Location 4873](https://readwise.io/to_kindle?action=open&asin=B002LHRM2O&location=4873)
-### Location 5007
+### Location 5007 Mark Twain quote on common sense
 
 > Probably Mark Twain was right saying that ‘common sense is not common at all’ or something similar.”
 
  * [Location 5007](https://readwise.io/to_kindle?action=open&asin=B002LHRM2O&location=5007)
-### Location 5048
+### Location 5048 
 
 > Then it dawns on me. Here’s the answer. This is the technique that I should ask Jonah to teach me: how to persuade other people, how to peel away the layers of common practice, how to overcome the resistance to change.
 
