@@ -6,7 +6,7 @@
 
 Active Projects
 ``` dataview
-TABLE tags FROM "10 projects" and #project
+TABLE tags FROM #project and !("90 archives" or #done)
 
 SORT file desc
 
