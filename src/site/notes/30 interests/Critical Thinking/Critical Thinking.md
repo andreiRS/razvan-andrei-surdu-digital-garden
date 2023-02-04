@@ -24,6 +24,8 @@ Here you will find tool and frameworks for your mind to help you on your own jou
 - [[30 interests/Critical Thinking/Survivorship Bias\|Survivorship Bias]]
 - [[30 interests/Critical Thinking/Groupthink\|Groupthink]]
 - [[30 interests/Critical Thinking/The Swimmer Body Bias\|The Swimmer Body Bias]]
+- [[30 interests/Critical Thinking/What The Hell Effect\|What The Hell Effect]]
+- [[30 interests/Critical Thinking/Loss Aversion\|Loss Aversion]]
 - [[pages/The Dunning Kruger effect - you dont know what you dont know\|The Dunning Kruger effect - you dont know what you dont know]]
 - [[30 interests/Critical Thinking/Desirability Bias\|Desirability Bias]]
 - [[Hyperbolic Discounting\|Hyperbolic Discounting]] is the phenomenon where our brain is biased towards instincts and short-term objectives
