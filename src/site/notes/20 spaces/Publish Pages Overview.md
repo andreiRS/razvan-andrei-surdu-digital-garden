@@ -33,6 +33,7 @@
 - [[30 interests/Note-taking/Progressive Summarization/Progressive Summarization\|Progressive Summarization]]
 - [[20 spaces/Publish Pages Overview\|Publish Pages Overview]]
 - [[30 interests/Tech/Pull upstream\|Pull upstream]]
+- [[library/Readwise Inbox\|Readwise Inbox]]
 - [[30 interests/Critical Thinking/Sampling Bias\|Sampling Bias]]
 - [[30 interests/Tech/Search for an exact keywords on a specific website using google\|Search for an exact keywords on a specific website using google]]
 - [[30 interests/Critical Thinking/Survivorship Bias\|Survivorship Bias]]
