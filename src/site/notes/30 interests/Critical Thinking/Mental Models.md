@@ -41,7 +41,7 @@
 - [[30 interests/Critical Thinking/Six Thinking Hats\|Six Thinking Hats]]
 - [[pages/1-2-4-All\|1-2-4-All]]
 - [[30 interests/Critical Thinking/First Principles\|First Principles]]
-- [[30 interests/Critical Thinking/Theory of Constraints\|Theory of Constraints]]
+- [[30 interests/Product Management/Theory of Constraints\|Theory of Constraints]]
 - ICE Prioritization
 
 ## References
