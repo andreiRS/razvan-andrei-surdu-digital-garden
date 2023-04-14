@@ -18,6 +18,7 @@
 - [[assets/templates/Obsidian/DG Publish\|DG Publish]]
 - [[30 interests/Note-taking/Digital Garden\|Digital Garden]]
 - [[30 interests/Tech/Disable app relaunch and window restore on mac\|Disable app relaunch and window restore on mac]]
+- [[10 projects/Effective Reading Essay/Effective Reading Essay\|Effective Reading Essay]]
 - [[30 interests/Entrepreneurship/Entrepreneurship\|Entrepreneurship]]
 - [[30 interests/Analytics/Probability Fundamentals - Briliant Course/Estimating Probabilities\|Estimating Probabilities]]
 - [[30 interests/Leadership/Goleman's Leadership Styles\|Goleman's Leadership Styles]]
