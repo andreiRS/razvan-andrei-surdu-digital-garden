@@ -5,7 +5,7 @@
 The Goal by Eliyahu M. Goldratt, Jeff Cox, and David Whitford
 
 - Author: [[Eliyahu M. Goldratt, Jeff Cox, and David Whitford\|Eliyahu M. Goldratt, Jeff Cox, and David Whitford]]
-- Imported: [[2022-10-17\|2022-10-17]] from kindle
+- Imported: [[journals/2022-10-17\|2022-10-17]] from kindle
 - Real Title: The GoaL
 
 - [i] Outline 
