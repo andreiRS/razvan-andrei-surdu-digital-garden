@@ -4,7 +4,7 @@
 
 [[Home\|Home]] | #x/index
 
-Active Projects
+# Active Projects
 ``` dataview
 TABLE tags FROM #project and !("90 archives" or #done)
 
