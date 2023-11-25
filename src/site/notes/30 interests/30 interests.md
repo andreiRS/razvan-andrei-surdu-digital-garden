@@ -14,4 +14,5 @@
 - [[30 interests/Writing/Writing\|Writing]]
 - [[30 interests/Analytics/Analytics\|Analytics]]
 - [[30 interests/History/History\|History]]
+- [[library/concepts/concepts\|Concepts]]
 - [[30 interests/Examples of Interests\|Other]]
