@@ -3,7 +3,7 @@
 ---
 
 # The Law of Diminishing Returns
-[[library/concepts/concepts\|Concepts]]
+[[library/concepts/concepts\|concepts]]
 
 ![The Law of Diminishing Returns.png](/img/user/library/concepts/The%20Law%20of%20Diminishing%20Returns.png)
 
