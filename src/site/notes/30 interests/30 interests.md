@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/30-interests/30-interests/"}
 ---
 
+# Interests
 [[Home\|Home]]
 
 - [[30 interests/Critical Thinking/Critical Thinking\|Critical Thinking]]
