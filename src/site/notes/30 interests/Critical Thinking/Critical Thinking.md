@@ -37,6 +37,7 @@ Here you will find tool and frameworks for your mind to help you on your own jou
 - Identify the root problem
 - Improve the quality of the information you consume
 - Avoid taking decisions during high stress situations
+- [[library/concepts/The Law of Diminishing Returns\|The Law of Diminishing Returns]]
 
 ## Critical Questions
 - How have you evaluated your evidence?
