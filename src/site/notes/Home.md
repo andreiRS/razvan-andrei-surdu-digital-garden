@@ -6,7 +6,7 @@
 ![](https://i.imgur.com/v1LQMYT.png)
 
 ## Hi👋 I'm [[50 entities/51 individuals/Razvan Andrei Surdu\|Andrei]]!
-I'm a software engineer on an [[exciting journey\|exciting journey]], transitioning from a developer role to an entrepreneur. By day, I engage in building innovative mobile games, and by night, I delve into the fascinating worlds of AI and critical thinking.
+I'm a software engineer on an [[20 spaces/Home/Me/Personal Roadmap\|exiting journey]], transitioning from a developer role to an entrepreneur. By day, I engage in building innovative mobile games, and by night, I delve into the fascinating worlds of AI and critical thinking.
 
 Welcome to my Digital Garden, a space where I document and share everything I've learned on this journey. If our [[30 interests/30 interests\|interests]] align, I encourage you to explore and find what captures your attention. 🕳🐇
 
