@@ -2,15 +2,16 @@
 {"dg-publish":true,"permalink":"/30-interests/critical-thinking/critical-thinking/"}
 ---
 
+# Critical Thinking
 [[30 interests/30 interests\|30 interests]]
 
-# Critical Thinking
+The human mind is a remarkable asset that shapes our potential. Unlike physical abilities, the mind's potential knows no bounds when fueled by curiosity and courage.
 
-Your mind, over the last thousands of years, developed to be one of the most valuable asset that influences your potential.
+However, we must acknowledge that it's not the only factor at play. Physical health, emotions, and external circumstances also influence our capabilities.
 
-In contrast to mental labor where your physical condition decides the limit of your output, your mind does not know such boundaries. Its potential riles on your curiosity and on your courage to discover and try new things.
+Ultimately, achieving one's full potential requires a balanced synergy between the mind and body, emotional intelligence, and an understanding of the environment in which we operate. 
 
-Here you will find tool and frameworks for your mind to help you on your own journey.
+My goal is to provide practical guidance to help individuals thrive in this comprehensive pursuit of self-improvement.
 
 ## Mental Models
 - They are frameworks for thinking that simplify complex situations, so you can reason through them easily.
