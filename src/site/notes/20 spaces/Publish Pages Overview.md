@@ -39,6 +39,7 @@
 - [[50 entities/51 individuals/Razvan Andrei Surdu\|Razvan Andrei Surdu]]
 - [[30 interests/Critical Thinking/Sampling Bias\|Sampling Bias]]
 - [[30 interests/Tech/Search for an exact keywords on a specific website using google\|Search for an exact keywords on a specific website using google]]
+- [[30 interests/Critical Thinking/Second-Order Thinking\|Second-Order Thinking]]
 - [[30 interests/Critical Thinking/Survivorship Bias\|Survivorship Bias]]
 - [[30 interests/Tech/Tech\|Tech]]
 - [[30 interests/Entrepreneurship/Test and Learning Card Format\|Test and Learning Card Format]]
