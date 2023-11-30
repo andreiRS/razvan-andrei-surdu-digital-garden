@@ -39,7 +39,7 @@
 ## Other
 - [[pages/Negative Brainstorming\|Negative Brainstorming]]
 - [[30 interests/Critical Thinking/Regret Minimization\|Regret Minimization]]
-- Second-Order Thinking
+- [[30 interests/Critical Thinking/Second-Order Thinking\|Second-Order Thinking]]
 - [[30 interests/Critical Thinking/Six Thinking Hats\|Six Thinking Hats]]
 - [[pages/1-2-4-All\|1-2-4-All]]
 - [[30 interests/Critical Thinking/First Principles\|First Principles]]
