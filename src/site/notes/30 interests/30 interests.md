@@ -6,6 +6,10 @@
 [[Home\|Home]]
 
 - [[30 interests/Critical Thinking/Critical Thinking\|Critical Thinking]]
+	- Decision Making 
+	- Problem Solving
+	- Goal Setting 
+	- Strategic Planning 
 - [[30 interests/Entrepreneurship/Entrepreneurship\|Entrepreneurship]]
 - [[30 interests/Leadership/Leadership\|Leadership]]
 - [[30 interests/Product Management/Product Management\|Product Management]]
