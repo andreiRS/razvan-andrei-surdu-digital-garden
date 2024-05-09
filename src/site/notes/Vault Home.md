@@ -17,7 +17,7 @@ If you have an idea you'd like to discuss, please feel free to send me a [direct
 - [[30 interests\|Interests]]
 - [[+ Index for Books\|Books]]
 - [Published Digital Garden](https://razvan-andrei-surdu.eu/)
-	- [[20 spaces/Publish Pages Overview\|Publish Pages Overview]]
+	- [[Publish Pages Overview\|Publish Pages Overview]]
 
 ---
 This website was build using [Obsidian](https://obsidian.md/) and https://github.com/oleeskild/obsidian-digital-garden
