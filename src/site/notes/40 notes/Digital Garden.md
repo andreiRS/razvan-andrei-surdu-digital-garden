@@ -15,8 +15,3 @@ You can get started nowadays with a plethora of options. If you want solutions o
 
 [Maggie Appleton's Blog](https://maggieappleton.com) has examples of digital gardens as well as a comprehensive list of tools to get you started:
 * https://github.com/MaggieAppleton/digital-gardeners
-
-
----
-links: [[tags/Learning\|Tags/Learning]]
-tags: #seed-🌱 #output/note
