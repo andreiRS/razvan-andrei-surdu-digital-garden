@@ -7,5 +7,5 @@
 # Note-Taking
 
 - [[Note-taking Apps\|Note-taking Apps]]
-- [[30 input/300 other/Progressive Summarization\|Progressive Summarization]]
+- [[30-input/Progressive Summarization\|Progressive Summarization]]
 - [[PARA Illustration\|PARA Illustration]]

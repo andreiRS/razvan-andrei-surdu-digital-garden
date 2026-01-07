@@ -27,11 +27,11 @@
 - [[Don't Break The Chain\|Don't Break The Chain]]
 
 ## Links
-- [[40 notes/Parkinson’s Law\|Parkinson’s Law]]
+- [[30-input/Parkinson’s Law\|Parkinson’s Law]]
 
 ## Ideas
 - The state of flow can have also disadvantages. For example, loosing sight of the bigger picture and being exposed to cognitive biases.
 	- [[Flow can be the enemy of critical thinking\|Flow can be the enemy of critical thinking]]
 
 ## Resources
-- [[90 archives/2022/journal/L. Flow\|L. Flow]]
+- [[90-archives/2022/journal/L. Flow\|L. Flow]]

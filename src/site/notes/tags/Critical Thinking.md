@@ -16,25 +16,25 @@ My goal is to provide practical guidance to help individuals thrive in this comp
 ## Mental Models
 - They are frameworks for thinking that simplify complex situations, so you can reason through them easily.
 - They help assess how things work and help us make better decisions.
-- Examples: [[30 input/concepts/Six Thinking Hats\|Six Thinking Hats]], [[30 input/300 other/The Irreversible and Consequential Decision Matrix\|The Irreversible and Consequential Decision Matrix]], [[30 input/300 other/Delegation Levels\|Delegation Levels]]
-- See more: [[30 input/300 other/Mental Models\|Mental Models]]
+- Examples: [[30-input/Six Thinking Hats\|Six Thinking Hats]], [[30-input/The Irreversible and Consequential Decision Matrix\|The Irreversible and Consequential Decision Matrix]], [[30-input/Delegation Levels\|Delegation Levels]]
+- See more: [[30-input/Mental Models\|Mental Models]]
 
 ## Cognitive Biases
-- [[30 input/300 other/Hawthorne Effect\|Hawthorne Effect]]
-- [[30 input/300 other/Sampling Bias\|Sampling Bias]]
-- [[30 input/300 other/Survivorship Bias\|Survivorship Bias]]
-- [[30 input/300 other/Groupthink\|Groupthink]]
-- [[30 input/300 other/The Swimmer Body Bias\|The Swimmer Body Bias]]
-- [[30 input/300 other/What The Hell Effect\|What The Hell Effect]]
-- [[30 input/300 other/Loss Aversion\|Loss Aversion]]
-- [[90 archives/2022/journal/The Dunning Kruger effect - you dont know what you dont know\|The Dunning Kruger effect - you dont know what you dont know]]
-- [[30 input/300 other/Desirability Bias\|Desirability Bias]]
+- [[30-input/Hawthorne Effect\|Hawthorne Effect]]
+- [[30-input/Sampling Bias\|Sampling Bias]]
+- [[30-input/Survivorship Bias\|Survivorship Bias]]
+- [[30-input/Groupthink\|Groupthink]]
+- [[30-input/The Swimmer Body Bias\|The Swimmer Body Bias]]
+- [[30-input/What The Hell Effect\|What The Hell Effect]]
+- [[30-input/Loss Aversion\|Loss Aversion]]
+- [[90-archives/2022/journal/The Dunning Kruger effect - you dont know what you dont know\|The Dunning Kruger effect - you dont know what you dont know]]
+- [[30-input/Desirability Bias\|Desirability Bias]]
 - [[Hyperbolic Discounting\|Hyperbolic Discounting]] is the phenomenon where our brain is biased towards instincts and short-term objectives
 	- [b] [[Hyperbolic Discounting is the phenomenon where our brain is based towards instincts and short-term objectives\|Hyperbolic Discounting is the phenomenon where our brain is based towards instincts and short-term objectives]]
 
 ## Decision Making
 - Game Theory - the study of interdependent decision making
-- [[30 input/300 other/The Irreversible and Consequential Decision Matrix\|The Irreversible and Consequential Decision Matrix]]
+- [[30-input/The Irreversible and Consequential Decision Matrix\|The Irreversible and Consequential Decision Matrix]]
 - Identify the root problem
 - Improve the quality of the information you consume
 - Avoid taking decisions during high stress situations
@@ -56,8 +56,8 @@ My goal is to provide practical guidance to help individuals thrive in this comp
 - What can affect our ability to take the right decisions?
 
 ## Resources
-- [[30 input/books/L. Thinking, Fast and Slow\|L. Thinking, Fast and Slow]]
-- [[30 input/books/L. The Art of Thinking Clearly\|L. The Art of Thinking Clearly]]
+- [[30-input/L. Thinking, Fast and Slow\|L. Thinking, Fast and Slow]]
+- [[30-input/L. The Art of Thinking Clearly\|L. The Art of Thinking Clearly]]
 - [Being Logical](obsidian://open?vault=Highlights&file=highlights%2FBooks%2FBeing%20Logical)
-- [[90 archives/2022/journal/L. The Art of Thinking\|L. The Art of Thinking]]
+- [[90-archives/2022/journal/L. The Art of Thinking\|L. The Art of Thinking]]
 - [Tools for better thinking | Untools](https://untools.co)
