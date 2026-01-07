@@ -6,7 +6,7 @@
 ![](https://i.imgur.com/v1LQMYT.png)
 
 ## Hi👋 I'm [[30-input/individuals/Razvan Andrei Surdu\|Andrei]]!
-I'm a software engineer on an [[30-input/Personal Journey\|exciting journey]], transitioning from a developer role to an entrepreneur. By day, I engage in building innovative mobile games, and by night, I delve into [[tags/AI\|AI]] and [[tags/Critical Thinking\|Critical Thinking]].
+I'm a software engineer on an [[50-output/Personal Journey\|exciting journey]], transitioning from a developer role to an entrepreneur. By day, I engage in building innovative mobile games, and by night, I delve into [[tags/AI\|AI]] and [[tags/Critical Thinking\|Critical Thinking]].
 
 This is my [[30-input/Digital Garden\|Digital Garden]], a space where I share some of my notes on this journey. If our interests align, I encourage you to explore and find what captures your attention. 🎁
 
